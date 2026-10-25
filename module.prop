@@ -1,0 +1,6 @@
+id=FeedWatchdog
+name=Watchdog Feeder
+version=v3.3
+versionCode=3030
+author=Dani
+description=Feeds the Softdog so it never reboots the device.
